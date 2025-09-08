@@ -1,9 +1,9 @@
-def main():
-    return
+from flask import Flask
 
-print ("Hello, World!")
-
-
-@app.route('/rf')
+app = Flask(__name__)
+@app.route("/") 
 def home():
-	return 'Sup Dawwg!'
+    return "Hello, from Flask!" 
+
+if __name__ == "__main__":
+    app.run(debug=True)
