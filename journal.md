@@ -7,3 +7,40 @@ Date: 19Sep2025
 Subject: Diagram
 
 Visual aid is important in any line of work. The 2 types of diagrams we discussed in class today are "Flow diagram" and "Component diagram". Flow diagram, helps us think through how the data or processes go in our system. Component diagram, shows the structure of a system in terms of its component and how they interact. Flow diagram focuses on flow of data or control - used for process modeling, while component diagram focuses on system components and their links - used for system/module design.
+
+Date: 22Sep2025
+Subject: Where have we been....
+
+At this point, you should be fiddling with your youface project. START COMMUNICATING WITH YOUR GROUP. 
+This week:
+    1. Weds and Fri, work on your pitch deck and start developing your project.
+    2. Continue to develop user stories.
+    3. Start working on stuff - follow the practice
+        - Write a user story - add details
+        - Assign a user story to yourself
+        - Create a branch to work on it
+        - Do the work - test it on your local machine
+        - Make a PR (make sure you compare the correct things)
+        - Get someone to review your PR and merge it
+        - Repeat
+Presentation will be a week from Today!
+How to have a good presentation:
+Creating an IMPACTFUL Presentation
+    1. Who's the audience?
+    2. What are the goals? What are you trying to accomplish?
+    3. Follow Design Principles
+Desing Elements for Slides:
+    Text Size: Large things are emphasized. Bold and Italics help draw attention to key ideas.
+    Color: Color is really important. It conveys all kinds of information. Colo can highlight specific elements.
+    Element Size: Size and number of elements on the page draw your eye. 7 +/- 2 objects on a page. 
+    Level of Detail:
+    Pictures: 
+Color Guidelines:
+    Red is for some kind of ALERT, problem or critical element.
+    Yellow is for highlighting changes or new things.
+    Green is for good things or familiar things.
+    Gray is for out of scope or not of consequence.
+    Blue for neutral or existing things.
+    Orange for pay attention to this or for things that are changing.
+
+
