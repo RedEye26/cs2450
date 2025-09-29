@@ -44,3 +44,7 @@ Color Guidelines:
     Orange for pay attention to this or for things that are changing.
 
 
+DATE: 28SEP2025
+SUBJECT: Legionaries Powerpoint
+
+Powerpoint completed. I feel like I haven't done much with this group since I switched to this section from the 10am class, but I tried my best to help out in any way I can. All the contents for the slideshow were already put in, so I just cleaned up the slides and added some visual aids on there. Oh, and I've also added presentation notes for each slide.
