@@ -48,3 +48,11 @@ DATE: 28SEP2025
 SUBJECT: Legionaries Powerpoint
 
 Powerpoint completed. I feel like I haven't done much with this group since I switched to this section from the 10am class, but I tried my best to help out in any way I can. All the contents for the slideshow were already put in, so I just cleaned up the slides and added some visual aids on there. Oh, and I've also added presentation notes for each slide.
+
+
+DATE: 05OCT2025
+SUBJECT: Time Management
+
+ChatGPT said:
+
+I’ve been struggling with time management, and it’s starting to affect my grades. Part of it is that I don’t have a solid routine, and I keep underestimating how long things will take. I get distracted easily, and sometimes I avoid schoolwork because I feel overwhelmed or just mentally exhausted. On top of that, I’ve been dealing with family problems at home, which makes it even harder to focus or stay motivated. It’s like I’m constantly trying to juggle everything, and I end up dropping the ball. Still, I know I need to take steps to turn things around—even small ones like planning better, setting boundaries, and breaking tasks into smaller parts. I haven’t given up; I just need to find a way forward through all of this.
