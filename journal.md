@@ -53,6 +53,9 @@ Powerpoint completed. I feel like I haven't done much with this group since I sw
 DATE: 05OCT2025
 SUBJECT: Time Management
 
-ChatGPT said:
-
 I’ve been struggling with time management, and it’s starting to affect my grades. Part of it is that I don’t have a solid routine, and I keep underestimating how long things will take. I get distracted easily, and sometimes I avoid schoolwork because I feel overwhelmed or just mentally exhausted. On top of that, I’ve been dealing with family problems at home, which makes it even harder to focus or stay motivated. It’s like I’m constantly trying to juggle everything, and I end up dropping the ball. Still, I know I need to take steps to turn things around—even small ones like planning better, setting boundaries, and breaking tasks into smaller parts. I haven’t given up; I just need to find a way forward through all of this.
+
+DATE: 08OCT2025
+SUBJECT: Continuation Integration
+
+Uses automation tests to test your code and find issues immediately, so you can fix it right away.
